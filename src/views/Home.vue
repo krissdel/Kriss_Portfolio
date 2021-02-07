@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1> HOME </h1>
+    
   <SoftSkills msg="Christian DELORME "/>
   </div>
 </template>
@@ -12,7 +12,7 @@ import SoftSkills from '@/components/SoftSkills.vue'
 export default {
   name: 'home',
   components: {
-    SoftSkills
+    SoftSkills,
   }
 }
 </script>
