@@ -1,23 +1,26 @@
 <template>
   <div id="app">
-    <Home msg="Christian DELORME "/>
-  
-  <NavBar />
-  
+    <div id="nav">
+      <router-link to="/">Home</router-link>
+      <router-link to="/projects">Projects</router-link>
+      <router-link to="/about">About</router-link>
+      <router-link to="/contact">Contact</router-link>
+
+    </div>
+    <NavBar />
+    <router-view />
   </div>
 </template>
 
 <script>
-import Home from './components/Home.vue'
-import NavBar from './components/NavBar.vue'
+import NavBar from "./components/NavBar.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    Home,
-    NavBar
-  }
-}
+    NavBar,  
+  },
+};
 </script>
 
 <style>

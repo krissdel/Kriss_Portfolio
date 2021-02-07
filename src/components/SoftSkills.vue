@@ -5,18 +5,22 @@
     <div class="tags">
       <span class="tags1"> 𓀾 𓀿 𓁀 𓁁 𓁂 𓁃 𓁄 𓁅 </span>
       <span class="tags2"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
-      <span class="tags3"> 𓀻 𓀼 𓀽 𓀾 𓀿 𓁀 𓁁 𓁂 𓁃 𓁄 𓁅 𓁆 𓁇 𓁈 𓁉 𓁊 𓁋 𓁌 𓁍 𓁎 𓁏 </span>
+      
     </div>
     
         <!-- <router-link to="/Projects"> -->
 <!-- <button type="button" class="btn btn-white btn- animate">projects</button> -->
 <div class="text-box">
       <a href="#" class="btn btn-white btn- animate"> soft</a>
-    
     </div>
+
+          <span class="tags5"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
+
     <!-- </router-link>  -->
 
     <div>
+            <span class="tags4"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
+
       <ul>
         <li><a href="#">Mot clé 1</a></li>
         <li><a href="#">Mot clé 2</a></li>
@@ -40,6 +44,8 @@
       </ul>
     </div>
   </div>
+        <span class="tags6"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
+
 </template>
 
 <script>
@@ -95,12 +101,42 @@ h1 {
   justify-content: flex-end;
   color: #515152;
 }
-.tags3 {
+/* .tags3 {
   font-size: 20px;
   font-family: "La Belle Aurore", cursive;
-
   top: 0;
   color: #515152;
+   margin-left: -29vw;
+  margin-top: 21vh;
+} */
+.tags4 {
+  font-size: 20px;
+  font-family: "La Belle Aurore", cursive;
+display: flex;
+  top: 0;
+  color: #515152;
+   margin-left: 18vw;
+  margin-top: 21vh;
+}
+.tags5 {
+  font-size: 20px;
+  font-family: "La Belle Aurore", cursive;
+  bottom: 50px;
+  top: 0;
+  display: flex;
+  color: #515152;
+   margin-left: 66vw;
+  margin-top: 21vh;
+}
+.tags6 {
+  font-size: 20px;
+  font-family: "La Belle Aurore", cursive;
+  bottom: 50px;
+  top: 0;
+  display: flex;
+  color: #515152;
+   margin-left: 80vw;
+  margin-top: 21vh;
 }
 
 /* -----[button soft skills]--------------- */

@@ -1,12 +1,11 @@
 <template>
-
-<h1>Projects page</h1>
-
-
+  <h1> Contact </h1>
 </template>
 
 <script>
 export default {
+ name:'contact',
+ components: ''
 
 }
 </script>

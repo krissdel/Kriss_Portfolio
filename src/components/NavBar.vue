@@ -4,36 +4,32 @@
 
     <!-- </a> -->
     <nav class="nav_bar_icons">
-      <span style="font-size: 1.5em; color: white">
-        <i class="fas fa-home"></i>
-      </span>
-      <span style="font-size: 1.5em; color: white">
-        <i class="fas fa-user"></i>
-      </span>
+      <router-link to="/">
+        <span style="font-size: 1.5em; color: white">
+          <i class="fas fa-home"></i>
+        </span>
+      </router-link>
+
+      <router-link to="/about">
+        <span style="font-size: 1.5em; color: white">
+          <i class="fas fa-user"></i>
+        </span>
+      </router-link>
+
       <span style="font-size: 1.5em; color: white">
         <i class="fas fa-eye"></i>
       </span>
 
-      <!-- <span style="font-size: 1.5em; color: white"> -->
+      <router-link to="/projects">
+        <span style="font-size: 1.5em; color: white">
+          <i class="fas fa-briefcase"></i>
+        </span>
+      </router-link>
 
-<router-link to="./Projects"><i class="fas fa-briefcase"></i>
-</router-link>
-      <!-- </span> -->
-
-
-
-      <!-- <router-link
-        :to="{
-          name: 'Projects',
-        }"
-      >
-<i class="fas fa-briefcase"></i>
-      </router-link> -->
-
-
-      <span style="font-size: 1.5em; color: white">
-        <i class="fas fa-envelope"></i>
-      </span>
+      <router-link to="/contact"
+        ><span style="font-size: 1.5em; color: white">
+          <i class="fas fa-envelope"></i> </span
+      ></router-link>
     </nav>
     <!-- <ul></ul> -->
   </div>
