@@ -2,18 +2,17 @@
 
 <template>
   <div class="about">
-    <h1>About</h1>
+    <h1>About Me</h1>
+    <img src="../assets/moi.png" alt="Image moi" class="img" />
   </div>
 </template>
 
 <script>
 export default {
- name: 'about',
+  name: "about",
 
- components: {
-
- }
-}
+  components: {},
+};
 </script>
 
 

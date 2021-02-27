@@ -39,30 +39,88 @@
     </div>
   </div> -->
 
- 
-<div class="grid-container">
-    
-    <div class="projects_image"><img src="../assets/groupomania_projet.png"></div>
-    
-    <div class="projects_image"><img src="../assets/so_pekocko.png"></div>
-    
-    <div class="projects_image"><img src="../assets/orinoco.png"></div>
-    
-    <div class="projects_image"><img src="../assets/chouette_agence.png"></div>
-    
-    <div class="projects_image"><img src="../assets/ohmyfood.png"></div>
-    
-    <div class="projects_image"><img src="../assets/cv.png"></div>
+  <!-- ================================= -->
+  <div class="grid-container">
+    <div class="child-page-listing">
+      <h2>projects</h2>
 
-</div>
+      <article class="">
+        <a class="" href="#">Groupomania</a>
+        <div class="">
+          <a href="#">
+            <img src="../assets/groupomania_projet.png" />
+          </a>
+        </div>
+      </article>
+
+      <article class="">
+        <a class="" href="#">So pekocko</a>
+        <div class="">
+          <a href="#">
+            <img src="../assets/so_pekocko1.png" />
+          </a>
+        </div>
+      </article>
+
+      <article class="">
+        <a class="" href="#">Orinoco</a>
+        <div class="">
+          <a href="#">
+            <img src="../assets/orinoco1.png" />
+          </a>
+        </div>
+      </article>
+      <article class="">
+        <a class="" href="#">La Chouette Agence</a>
+        <div class="">
+          <a href="#">
+      <img src="../assets/chouette_agence1.png" />
+          </a>
+        </div>
+      </article>
+
+<article class="">
+        <a class="" href="#">Ohmyfood</a>
+        <div class="">
+          <a href="#">
+<img src="../assets/ohmyfood.png" />          </a>
+        </div>
+      </article>
+
+<article class="">
+        <a class="" href="#">CV</a>
+        <div class="">
+          <a href="#">
+<img src="../assets/cv.png" />          </a>
+        </div>
+      </article>
+    </div>
+
+    <!-- ======================= -->
+
+    <!-- <div class="projects_image">
+      <img src="../assets/groupomania_projet.png" />
+    </div>
+
+    <div class="projects_image"><img src="../assets/so_pekocko.png" /></div>
+
+    <div class="projects_image"><img src="../assets/orinoco.png" /></div>
+
+    <div class="projects_image">
+      <img src="../assets/chouette_agence.png" />
+    </div>
+
+    <div class="projects_image"><img src="../assets/ohmyfood.png" /></div>
+
+    <div class="projects_image"><img src="../assets/cv.png" /></div>
+  </div> -->
+  </div>
 </template>
 
 <script>
 export default {
   name: "projects",
-  components: {
-      
-  },
+  components: {},
 };
 </script>
 
@@ -76,5 +134,6 @@ img {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   grid-gap: 1em;
+  margin-left: 10pc;
 }
 </style>
