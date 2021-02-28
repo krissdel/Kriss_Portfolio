@@ -45,10 +45,17 @@
       <h2>projects</h2>
 
       <article class="">
+        <a class="" href="#">R'extense</a>
+        <div class="">
+          <a href="#"> <img src="../assets/rextense.png" /> </a>
+        </div>
+      </article>
+
+      <article class="">
         <a class="" href="#">Groupomania</a>
         <div class="">
           <a href="#">
-            <img src="../assets/groupomania_projet.png" />
+            <img src="../assets/groupomania_projet2.png" />
           </a>
         </div>
       </article>
@@ -57,7 +64,7 @@
         <a class="" href="#">So pekocko</a>
         <div class="">
           <a href="#">
-            <img src="../assets/so_pekocko1.png" />
+            <img src="../assets/so_pekocko2.png" />
           </a>
         </div>
       </article>
@@ -66,7 +73,7 @@
         <a class="" href="#">Orinoco</a>
         <div class="">
           <a href="#">
-            <img src="../assets/orinoco1.png" />
+            <img src="../assets/orinoco2.png" />
           </a>
         </div>
       </article>
@@ -74,24 +81,22 @@
         <a class="" href="#">La Chouette Agence</a>
         <div class="">
           <a href="#">
-      <img src="../assets/chouette_agence1.png" />
+            <img src="../assets/chouette_agence2.png" />
           </a>
         </div>
       </article>
 
-<article class="">
+      <article class="">
         <a class="" href="#">Ohmyfood</a>
         <div class="">
-          <a href="#">
-<img src="../assets/ohmyfood.png" />          </a>
+          <a href="#"> <img src="../assets/ohmyfood2.png" /> </a>
         </div>
       </article>
 
-<article class="">
+      <article class="">
         <a class="" href="#">CV</a>
         <div class="">
-          <a href="#">
-<img src="../assets/cv.png" />          </a>
+          <a href="#"> <img src="../assets/cv2.png" /> </a>
         </div>
       </article>
     </div>
