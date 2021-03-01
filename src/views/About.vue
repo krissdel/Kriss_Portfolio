@@ -20,6 +20,10 @@ export default {
 h1 {
   color: red;
 }
+img {
+    vertical-align: middle;
+    border-style: none;
+}
 </style>>
 
 

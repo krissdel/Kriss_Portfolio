@@ -1,43 +1,8 @@
 <template>
   <h1>My Projects</h1>
 
-  <!-- <div class="container">
-    <div class="container">
-      <div class="row row-cols-2">
-        <div class="col">
-          <div class="projects_image">
-            <img src="../assets/groupomania_projet.png" />
-          </div>
-        </div>
-        <div class="col">
-          <div class="projects_image">
-            <img src="../assets/so_pekocko.png" />
-          </div>
-        </div>
-        <div class="col">
-          <div class="projects_image">
-            <img src="../assets/chouette_agence.png" />
-          </div>
-        </div>
-        <div class="col">
-          <div class="projects_image">
-            <img src="../assets/orinoco.png">
-          </div>
-        </div>
+  <Loader />
 
-        <div class="col">
-          <div class="projects_image">
-            <img src="../assets/ohmyfood.png">
-          </div>
-        </div>
-        <div class="col">
-          <div class="projects_image">
-            <img src="../assets/cv.png">
-          </div>
-        </div>
-      </div>
-    </div>
-  </div> -->
 
   <!-- ================================= -->
   <div class="grid-container">
@@ -123,9 +88,14 @@
 </template>
 
 <script>
+import Loader from '@/components/Loader.vue'
+
+
 export default {
   name: "projects",
-  components: {},
+  components: {
+    Loader
+  },
 };
 </script>
 
