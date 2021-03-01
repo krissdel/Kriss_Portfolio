@@ -44,59 +44,59 @@
     <div class="child-page-listing">
       <h2>projects</h2>
 
-      <article class="">
-        <a class="" href="#">R'extense</a>
-        <div class="">
-          <a href="#"> <img src="../assets/rextense.png" /> </a>
+      <article class="project-listing">
+        <a class="project-link" href="https://github.com/krissdel/Rextense" target="_blank">Lien Github</a>
+        <div class="project-image">
+          <a href="https://rextense.com/" target="_blank"><img src="../assets/rextense.png" alt="image rextense "/> </a>
         </div>
       </article>
 
-      <article class="">
-        <a class="" href="#">Groupomania</a>
-        <div class="">
+      <article class="project-listing">
+        <a class="project-link" href="https://github.com/krissdel/groupomania">Lien Github</a>
+        <div class="project-image">
           <a href="#">
-            <img src="../assets/groupomania_projet2.png" />
+            <img src="../assets/groupomania_projet2.png" alt="image groupomania"/>
           </a>
         </div>
       </article>
 
-      <article class="">
-        <a class="" href="#">So pekocko</a>
-        <div class="">
+      <article class="project-listing">
+        <a class="project-link" href="#">Lien Github</a>
+        <div class="project-image">
           <a href="#">
-            <img src="../assets/so_pekocko2.png" />
+            <img src="../assets/so_pekocko2.png" alt="image so_pekocko"/>
           </a>
         </div>
       </article>
 
-      <article class="">
-        <a class="" href="#">Orinoco</a>
-        <div class="">
+      <article class="project-listing">
+        <a class="project-link" href="#">Lien Github</a>
+        <div class="project-image">
           <a href="#">
-            <img src="../assets/orinoco2.png" />
+            <img src="../assets/orinoco2.png" alt="image orinoco"/>
           </a>
         </div>
       </article>
-      <article class="">
-        <a class="" href="#">La Chouette Agence</a>
-        <div class="">
+      <article class="project-listing">
+        <a class="project-link" href="#">Lien Github</a>
+        <div class="project-image">
           <a href="#">
-            <img src="../assets/chouette_agence2.png" />
+            <img src="../assets/chouette_agence2.png" alt="image la chouette agence"/>
           </a>
         </div>
       </article>
 
-      <article class="">
-        <a class="" href="#">Ohmyfood</a>
-        <div class="">
-          <a href="#"> <img src="../assets/ohmyfood2.png" /> </a>
+      <article class="project-listing">
+        <a class="project-link" href="#">Lien Github</a>
+        <div class="project-image">
+          <a href="#"> <img src="../assets/ohmyfood2.png" alt="image ohmyfood"/> </a>
         </div>
       </article>
 
-      <article class="">
-        <a class="" href="#">CV</a>
-        <div class="">
-          <a href="#"> <img src="../assets/cv2.png" /> </a>
+      <article class="project-listing">
+        <a class="project-link" href="#">Lien Github</a>
+        <div class="project-image">
+          <a href="#"> <img src="../assets/cv2.png" alt="image projet CV"/> </a>
         </div>
       </article>
     </div>
