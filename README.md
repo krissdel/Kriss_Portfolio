@@ -1,4 +1,4 @@
-# kriss_-_portfolio
+# kriss_portfolio
 
 ## Project setup
 ```
