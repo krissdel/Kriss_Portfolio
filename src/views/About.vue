@@ -21,8 +21,9 @@ h1 {
   color: red;
 }
 img {
-    vertical-align: middle;
-    border-style: none;
+  vertical-align: middle;
+  border-style: none;
+  max-width: 125px;
 }
 </style>>
 

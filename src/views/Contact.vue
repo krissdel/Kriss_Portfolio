@@ -1,4 +1,6 @@
 <template>
+<!-- <div class="card"> -->
+
   <h1>Contact</h1>
 
   <div class="container">
@@ -37,14 +39,15 @@
         ></textarea>
         <!-- <label for="floatingTextarea2">Comments</label> -->
     
-      </div>
+      
+     
+    </div>
+    </div>
        <div class="col-btn">
         <input class="btn btn-primary" type="submit" value="Envoyer" />
       </div>
-     
-    </div>
-    
   </div>
+<!-- </div> -->
 </template>
 
 <script>
