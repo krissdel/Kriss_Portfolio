@@ -11,6 +11,7 @@
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
+    "vuewordcloud": "^18.7.12",
     "x5-gmaps": "^1.0.0-alpha.3"
   },
   "devDependencies": {
