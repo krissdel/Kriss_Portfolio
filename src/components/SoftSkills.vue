@@ -39,7 +39,6 @@
         <li><a href="#">Mot clé 15</a></li>
         <li><a href="#">Mot clé 16</a></li>
         <li><a href="#">Mot clé 17</a></li>
-        <li><a href="#">Mot clé 18</a></li>
         <li><a href="#">Mot clé 19</a></li>
       </ul>
     </div>
