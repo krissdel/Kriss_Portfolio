@@ -49,8 +49,6 @@
 
 <script>
 
-// var jQuery = require("jquery")
-
 export default {
   name: "Home",
   props: {
@@ -59,16 +57,6 @@ export default {
 
 
   mounted () {
-//    $(document).ready(function(){
-//   $('#tagsphere').tagSphere({
-//     height: 230,
-//     width: 380,
-//     slower: 0.80,
-//     radius: 80,
-//     timer: 50,
-//     fontMultiplier: 20
-//   });
-// });
 },
 
   methods: {
@@ -144,7 +132,6 @@ a.btn.btn-white.btn-.animate {
   font-family: "Libre Baskerville", serif;
 }
 body {
-  /* font-family: sans-serif; */
   background-color: #060b0e;
   font-weight: bold;
 }
