@@ -1,10 +1,5 @@
 <template>
   <div id="nav_bar">
-
-
-
-    
-   
     <nav class="nav_bar_icons">
       <router-link to="/">
         <span style="font-size: 1.5em; color: white">
