@@ -130,6 +130,9 @@ display: flex;
 
 a.btn.btn-white.btn-.animate {
   font-family: "Libre Baskerville", serif;
+  border-color: rgb(17, 236, 229);;
+  /* background: rgb(17, 236, 229); */
+  box-shadow: rgb(17 236 229) 0px 0px 6px 0.7px
 }
 body {
   background-color: #060b0e;
