@@ -2,7 +2,7 @@
 <!-- <div class="card"> -->
 
   <h1>Contact</h1>
-
+<!-- <div class="container">  -->
   <div class="container">
     <div class="row">
       <div class="col">
@@ -47,6 +47,7 @@
         <input class="btn btn-primary" type="submit" value="Envoyer" />
       </div>
   </div>
+  <!-- </div> -->
 <!-- </div> -->
 </template>
 
@@ -57,11 +58,11 @@
 .container {
     max-width: 800px;
     padding-top: 5pc;
+    width: fit-content;
 }
 .col {
   padding-bottom: 5pc;
 }
-
 .row {
   flex-direction: column;
 }

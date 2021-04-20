@@ -66,7 +66,10 @@ export default {
 }
 </script>
 
-<style>
+
+<style lang="css" scoped>
+
+
 h1 {
   font-family: "Libre Baskerville", serif;
   color: white;
@@ -134,10 +137,11 @@ a.btn.btn-white.btn-.animate {
   /* background: rgb(17, 236, 229); */
   box-shadow: rgb(17 236 229) 0px 0px 6px 0.7px
 }
-body {
+/* body {
   background-color: #060b0e;
   font-weight: bold;
-}
+  width: 900px;
+} */
 
 .text-box {
   margin-left: -11vw;

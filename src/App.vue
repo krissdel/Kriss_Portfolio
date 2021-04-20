@@ -26,4 +26,10 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+body {
+  background-color: #060b0e;
+  font-weight: bold;
+  /* width: 900px; */
+  /* margin: 0 auto; */
+}
 </style>
