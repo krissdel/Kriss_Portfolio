@@ -56,7 +56,7 @@ export default {
   justify-content: space-between;
   z-index: 3;
   min-height: 500px;
-    padding-block: 12pc;
+  padding-block: 12pc;
 
 }
 .nav_bar_icons {

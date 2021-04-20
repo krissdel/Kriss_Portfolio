@@ -1,4 +1,5 @@
 <template>
+<div></div>
 <!-- <div class="card"> -->
 
   <h1>Contact</h1>
@@ -56,13 +57,14 @@
 
 <style scoped>
 .container {
-    max-width: 800px;
+    /* max-width: 800px; */
     padding-top: 5pc;
     width: fit-content;
 }
 .col {
   padding-bottom: 5pc;
 }
+
 .row {
   flex-direction: column;
 }
@@ -74,9 +76,9 @@ label {
     padding-top: 4pc;
 }
 
-input.btn.btn-primary {
+/* input.btn.btn-primary {
     width: 48pc;
-}
+} */
 .btn-primary {
     color: #fff;
     background-color: #3c4776;
