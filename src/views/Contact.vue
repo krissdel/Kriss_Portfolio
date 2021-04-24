@@ -45,7 +45,7 @@
     </div>
     </div>
        <div class="col-btn">
-        <input class="btn btn-primary" type="submit" value="Envoyer" />
+        <input class="btn btn-primary" type="submit" value="Send" />
       </div>
   </div>
   <!-- </div> -->
