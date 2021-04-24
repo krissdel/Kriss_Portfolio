@@ -56,6 +56,9 @@
 </script>
 
 <style scoped>
+h1{
+  color: rgb(17, 236, 229);
+}
 .container {
     /* max-width: 800px; */
     padding-top: 5pc;

@@ -18,7 +18,7 @@ export default {
 
 <style scoped>
 h1 {
-  color: red;
+ color: rgb(17, 236, 229);
 }
 img {
   vertical-align: middle;

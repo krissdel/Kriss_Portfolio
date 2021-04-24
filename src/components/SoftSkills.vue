@@ -75,6 +75,7 @@ export default {
 h1 {
   font-family: "Libre Baskerville", serif;
   color: white;
+  padding-left: 60px;
 }
 .tags1 {
   font-size: 20px;

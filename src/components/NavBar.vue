@@ -4,6 +4,7 @@
       <router-link to="/">
         <span style="font-size: 1.5em; color: white">
           <i class="fas fa-home"></i>
+          
           <!-- <b>Home</b> -->
         </span>
       </router-link>
@@ -121,7 +122,9 @@ export default {
     z-index: 3;
     min-height: 500px;
 }
-
+.fa-home:active{
+  color: rgb(17, 236, 229);
+}
 /* =====[icones hover]============================ */
 .nav ul {
     list-style: none;
