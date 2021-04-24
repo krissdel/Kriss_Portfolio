@@ -7,7 +7,6 @@
           <!-- <b>Home</b> -->
         </span>
       </router-link>
-
       <router-link to="/about">
         <span style="font-size: 1.5em; color: white">
           <i class="fas fa-user"></i>
@@ -32,8 +31,16 @@
           <i class="fas fa-envelope"></i>
           <!-- <b>Contact</b>  -->
       </span></router-link>
-    </nav>
+
+<div style="top: 0px; left: 100%; width: 2%;" data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNG"></div>
     
+<div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNH" style="top: 10pc; left: 100%; width: 2%;"></div>
+<div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNH" style="top: 35pc; left: 100%; width: 2%;"></div>
+<div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNI" style="top: 25pc; left: 100%; width: 2%;"></div>
+<div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNJ" style="top: 45pc; left: 100%; width: 2%;"></div>
+
+</nav>
+
   </div>
 </template>
 
@@ -45,32 +52,73 @@ export default {
 
 <style scoped>
 /* -----[nav bar]--------------------- */
-#nav_bar {
-  background: #181818;
-  width: 60px;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  z-index: 3;
-  min-height: 500px;
-  padding-block: 12pc;
+/* ::after {
+  box-sizing: border-box; 
+  box-sizing: content-box;
+} */
+* {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+/* =====[glowing lines]================================== */
+.gLPqNG {
+    position: absolute;
+    height: 63px;
+    background: rgb(17, 236, 229);
+    box-shadow: rgb(17 236 229) 0px 0px 6px 0.7px;
+}
+.gLPqNH {
+    position: absolute;
+    height: 20px;
+    background: rgb(17, 236, 229);
+    box-shadow: rgb(17 236 229) 0px 0px 6px 0.7px;
+}
+.gLPqNI {
+    position: absolute;
+    height: 108px;
+    background: rgb(17, 236, 229);
+    box-shadow: rgb(17 236 229) 0px 0px 6px 0.7px;
+}
+.gLPqNJ {
+    position: absolute;
+    height: 115px;
+    background: rgb(17, 236, 229);
+    box-shadow: rgb(17 236 229) 0px 0px 6px 0.7px;
+}
+/* ====================================================== */
 
+#nav_bar {
+     background: #181818;
+    /* border-color: red; */
+    width: 60px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    z-index: 3;
+    min-height: 500px;
+    border: 1px solid rgb(42 97 95);
 }
 .nav_bar_icons {
-  background: #181818;
-  width: 60px;
-  height: 100%;
-  position: fixed;
-  top: 0;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  z-index: 3;
-  min-height: 500px;
-  padding-block: 12pc;
+    background: #181818;
+    width: 60px;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    z-index: 3;
+    min-height: 500px;
 }
 
 /* =====[icones hover]============================ */
