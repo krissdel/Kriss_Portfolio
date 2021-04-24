@@ -38,6 +38,7 @@
 <div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNH" style="top: 35pc; left: 100%; width: 2%;"></div>
 <div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNI" style="top: 25pc; left: 100%; width: 2%;"></div>
 <div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNJ" style="top: 45pc; left: 100%; width: 2%;"></div>
+<div data-v-4295d220="" class="SignupBannerBottom__GlowingLine-sc-1lyynxn-5 gLPqNJ" style="top: 80pc; left: 100%; width: 2%;"></div>
 
 </nav>
 
