@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-  
     <NavBar />
+      <SoftSkills msg="Christian DELORME "/>
+
     <router-view />
   </div>
 </template>
@@ -9,8 +10,10 @@
 <script>
 import NavBar from "./components/NavBar.vue";
 
+
 export default {
   name: "app",
+ 
   components: {
     NavBar,  
   },

@@ -10,9 +10,9 @@
     
         <!-- <router-link to="/Projects"> -->
 <!-- <button type="button" class="btn btn-white btn- animate">projects</button> -->
-<div class="text-box">
+<!-- <div class="text-box">
       <a href="#" class="btn btn-white btn- animate"> soft</a>
-    </div>
+    </div> -->
 
           <span class="tags5"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
 
@@ -21,7 +21,7 @@
     <div>
             <span class="tags4"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
 
-      <ul>
+      <!-- <ul>
         <li><a href="#">Mot clé 1</a></li>
         <li><a href="#">Mot clé 2</a></li>
         <li><a href="#">Mot clé 3</a></li>
@@ -40,7 +40,7 @@
         <li><a href="#">Mot clé 16</a></li>
         <li><a href="#">Mot clé 17</a></li>
         <li><a href="#">Mot clé 19</a></li>
-      </ul>
+      </ul> -->
     </div>
   </div>
         <span class="tags6"> 𓁆 𓁇 𓁈 𓁉 𓁍 𓁎 𓁏 </span>
