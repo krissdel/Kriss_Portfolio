@@ -12,6 +12,7 @@
     "vue": "^3.0.0",
     "vue-d3-cloud": "^0.2.0",
     "vue-router": "^4.0.0-0",
+    "vue3-google-map": "^0.7.5",
     "x5-gmaps": "^1.0.0-alpha.3"
   },
   "devDependencies": {

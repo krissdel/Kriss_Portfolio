@@ -112,4 +112,7 @@ img {
   grid-gap: 1em;
   margin-left: 10pc;
 }
+h1{
+  color: rgb(17, 236, 229);
+}
 </style>
