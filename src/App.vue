@@ -1,24 +1,25 @@
 <template>
   <div id="app">
+    <Sound />
     <NavBar />
-      <SoftSkills msg="Christian DELORME "/>
-
     <router-view />
   </div>
 </template>
 
 <script>
 import NavBar from "./components/NavBar.vue";
-
+import Sound from "./components/Sound.vue";
 
 export default {
-  name: "app",
- 
+  name: "App",
+
   components: {
-    NavBar,  
+    NavBar,
+    Sound,
   },
 };
 </script>
+
 
 <style>
 #app {
@@ -32,7 +33,5 @@ export default {
 body {
   background-color: #060b0e;
   font-weight: bold;
-  /* width: 900px; */
-  /* margin: 0 auto; */
 }
 </style>
