@@ -1,6 +1,7 @@
 {
   "name": "kriss_portfol",
   "version": "0.1.0",
+  "author": "Delorme christian <delormechrist@gmail.com>",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
